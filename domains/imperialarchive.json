@@ -1,8 +1,9 @@
 {
   "owner": {
-    "username": "latifah6114-ux"
+    "username": "latifah6114-ux",
+    "email": "latifah.6114.ux@gmail.com"
   },
-  "records": {
-    "CNAME": "latifah6114-ux.github.io"
+  "record": {
+    "CNAME": "magenta-muffin-84ea31.netlify.app"
   }
 }
