@@ -4,7 +4,9 @@
     "email": "huynguyen@alk.helioho.st"
   },
   "records": {
-    "A": ["65.19.154.94"]
+    "A": [
+      "65.19.154.94"
+    ]
   },
   "proxied": true
 }
